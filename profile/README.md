@@ -1,12 +1,30 @@
 ## Hi there 👋
 
-# Project Team Members
+# Core Team Members
 
 | Shyren More      | Aniket More     | Chirag Mahajan   |
 |------------------|-----------------|------------------|
 | [LinkedIn](https://www.linkedin.com/in/shyrenmore/)       | [LinkedIn](https://www.linkedin.com/in/aniket-more-2b97571b1/)     | [Linkedin](https://www.linkedin.com/in/chirag-mahajan-b09144137/)       |
 | [Mail](mailto:shyren.more30@gmail.com)                 | [Mail](mailto:aniketavinashmore33@gmail.com)                 | [Mail](mailto:chiragmahajan3101@gmail.com)                 |
+| [Github](https://github.com/ShyrenMore)                 | [Github](https://github.com/aniketmore311/)                 | [Github](https://github.com/chiragmahajan3101)                 |
 
+# Projects
+
+<table><tr>
+
+<td valign="top" width="33%">
+
+## Blockchain
+
+</td><td valign="top" width="34%">
+
+## Machine Learning
+
+</td><td valign="top" width="33%">
+
+## Web development
+
+</td></tr></table>
 
 <!--
 
