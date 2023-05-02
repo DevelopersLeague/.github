@@ -14,15 +14,30 @@
 
 <td valign="top" width="33%">
 
-## Blockchain
+## Blockchain/DApps
+
+### [EtherDocs](https://github.com/DevelopersLeague/Etherdocs)
+
+### [EtherFunds](https://github.com/DevelopersLeague/Etherfunds)
 
 </td><td valign="top" width="34%">
 
+
 ## Machine Learning
+
+### [Brandlytics](https://github.com/DevelopersLeague/Brandlytics)
+
+<p style="text-align: justify;">
+Brandlytics is a powerful brand analytics tool that allows businesses to track and analyze their brand performance across twitter. With Brandlytics, you can gain valuable insights into your target audience, monitor brand sentiment, and optimize your marketing strategy to drive better results.
+</p>
 
 </td><td valign="top" width="33%">
 
 ## Web development
+
+### [Stud-Net](https://github.com/DevelopersLeague/StudNet)
+
+### EverHustle: [Front-end](https://github.com/DevelopersLeague/EverHustle-FrontEnd) | [Back-end](https://github.com/DevelopersLeague/EverHustle-server)
 
 </td></tr></table>
 
