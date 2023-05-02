@@ -37,7 +37,17 @@ Brandlytics is a powerful brand analytics tool that allows businesses to track a
 
 ### [Stud-Net](https://github.com/DevelopersLeague/StudNet)
 
-### EverHustle: [Front-end](https://github.com/DevelopersLeague/EverHustle-FrontEnd) | [Back-end](https://github.com/DevelopersLeague/EverHustle-server)
+<p style="text-align: justify;">
+StudNet is a comprehensive student forum system that simplifies the administrative tasks involved in running a college or educational institution and betters the interpersonal relation among students with their peers, juniors, seniors. With StudNet, you can easily manage student data, make announcements, ask and answer questions like nearby hostel recommendations, job opportunities, etc. all while providing a seamless experience for students, parents, and teachers alike.
+</p>
+
+
+### EverHustle: [Front-end](https://github.com/DevelopersLeague/EverHustle-FrontEnd) | [Back-end](https://github.com/DevelopersLeague/EverHustle-server) | [Demo](https://youtu.be/u9JnFdxIUgM)
+
+<p style="text-align: justify;">
+EverHustle is an all-in-one productivity platform designed to help you streamline your workflow and get more done in less time. With features like daily reminders, tracking daily, weekly & monthly goals, positive articles to keep your mindset motivated, etc. EverHustle makes it easy to stay on top of your work and achieve your goals.
+</p>
+
 
 </td></tr></table>
 
