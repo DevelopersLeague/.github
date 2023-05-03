@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Core Team Members
 
@@ -8,6 +7,7 @@
 | [Mail](mailto:shyren.more30@gmail.com)                 | [Mail](mailto:aniketavinashmore33@gmail.com)                 | [Mail](mailto:chiragmahajan3101@gmail.com)                 |
 | [Github](https://github.com/ShyrenMore)                 | [Github](https://github.com/aniketmore311/)                 | [Github](https://github.com/chiragmahajan3101)                 |
 
+# Our Projects
 
 ## Blockchain based
 
